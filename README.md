@@ -1,2 +1,2 @@
 # python_strings
-describe about strings in python langaue 
+describe about strings in python programming 
